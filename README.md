@@ -20,20 +20,20 @@ The primary objective of the notebook is to assist SimpleBuy, a clothing company
 <p align="center">
 Feature Extraction and Exploration: <br/>
  
-<img width="851" alt="Screenshot 2023-10-05 124604" src="https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/45d72617-7169-4aa8-bef8-70d497928d29">
+<img width="851" alt="Screenshot 2023-10-05 124604" src="https://github.com/Decopain/Time-Series-Forecasting/assets/17460080/5d13f30f-5fd9-4744-bbea-18f3069a70b6">
 <br />
 <br />
 
 <p align="center">
 Holt's Winters: <br/>
  
-<img width="851" alt="Screenshot 2023-10-05 124604" src="https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/45d72617-7169-4aa8-bef8-70d497928d29">
+<img width="851" alt="Screenshot 2023-10-05 124604" src="https://github.com/Decopain/Time-Series-Forecasting/assets/17460080/2c2f2374-0c3d-48e2-becf-5366699dadfc">
 <br />
 <br />
 <p align="center">
 Case 2 Sale on Sunday:  <br/>
 
-<img width="935" alt="mhjytv" src="https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/243a0e68-8dc2-404b-8b30-aef47854a7ae">
+<img width="1115" alt="Case 2 Sale on Sunday" src="https://github.com/Decopain/Time-Series-Forecasting/assets/17460080/e95927cb-270e-4295-8490-9bd173f8502d">
 <br />
 <br />
 
